@@ -48,24 +48,3 @@ d[k>>>24]^e[n>>>16&255]^j[g>>>8&255]^l[h&255]^c[p++],n=d[n>>>24]^e[g>>>16&255]^j
 
 
 }
-/*
-     FILE ARCHIVED ON 16:51:44 Apr 27, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 22:47:09 Sep 21, 2022.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 241.272
-  exclusion.robots: 0.097
-  exclusion.robots.policy: 0.089
-  cdx.remote: 0.067
-  esindex: 0.009
-  LoadShardBlock: 49.342 (3)
-  PetaboxLoader3.datanode: 111.019 (5)
-  CDXLines.iter: 31.423 (3)
-  load_resource: 168.567 (2)
-  PetaboxLoader3.resolve: 84.012 (2)
-*/
